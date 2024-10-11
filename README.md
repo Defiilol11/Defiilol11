@@ -1,8 +1,11 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+
+My Name is Carlos, and I'm an Student of Mesoamerican University on Guatemala interested on all things Python, Data Science, Web Programming, API's!
+
+- 🔭 I’m currently working on making a System of a Online Shop.
+- 🌱 I’m also working on IoT things, like making controller and Web controlled Car. 
+- 👯 I’m looking to collaborate on New proyects and upload some New Updates on Youtube.
+  - Send me ideas of projects to carlitostaracenacoronado@gmail.com 
 <!--
 **Defiilol11/Defiilol11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
