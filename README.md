@@ -3,7 +3,7 @@
 My Name is Carlos, and I'm an Student of Mesoamerican University on Guatemala interested on all things Python, Data Science, Web Programming, API's!
 
 - 🔭 I’m currently working on making a System of a Online Shop.
-- 🌱 I worked on IoT things, like making controller and Web controlled Car. check ir [here](https://github.com/Defiilol11/Proyecto_UMES_2023)
+- 🌱 I worked on IoT things, like making controller and Web controlled Car.
 - 👯 I’m looking to collaborate on New proyects and upload some New Updates on Youtube.
   - Send me ideas of projects to carlitostaracenacoronado@gmail.com 
 <!--
