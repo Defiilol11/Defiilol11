@@ -7,6 +7,7 @@
 ---
 👨‍💻 Sobre mí
 Ingeniero en Sistemas en formación con pasión por resolver problemas complejos a través del código y los datos. Me especializo en el desarrollo backend, análisis de datos y creación de arquitecturas escalables.
+
 ```kotlin
 object CarlosTaracena {
     val role = "Fullstack Developer & Data Analyst"
@@ -16,7 +17,7 @@ object CarlosTaracena {
     
     fun workStyle() = "Analytical, creative, and data-driven."
 }
-
+```
 🛠️ Stack Tecnológico
 <p align="center">
   <strong>Frontend & UI/UX</strong><br>
