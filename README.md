@@ -1,56 +1,61 @@
-<h1 align="center">¡Hola! Soy Carlos Taracena 👋</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas | Desarrollador Fullstack & Analista de Datos</h3>
+<h1 align="center">¡Hola, qué tal! Soy Carlos Taracena 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Defiilol11&color=7c3aed&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Último_Semestre_💻-7c3aed?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Ubicación-Guatemala_🇬🇹-3b82f6?style=flat-square" alt="Location" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Defiilol11&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Último_Semestre-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Ubicación-Guatemala-blue?style=flat-square" alt="Location" />
+  <em>Estudiante de Ingeniería en Sistemas | Desarrollador Fullstack & Analista de Datos</em>
 </p>
 
 ---
 
-### 💻 Sobre mí
-Soy un apasionado del desarrollo de software, la arquitectura local-first y la ciencia de datos. Actualmente cursando el último semestre de **Ingeniería en Sistemas y Ciencias de la Computación** en la Universidad Mesoamericana, combinando el desarrollo fullstack con sistemas mecatrónicos y análisis avanzado de datos.
+### 🔍 ¿Quién soy?
 
-- 🔭 Actualmente enfocado en arquitecturas de software robustas, automatización y análisis de datos empresariales.
-- ⚙️ Amante del código limpio, contenedores Docker y flujos de trabajo eficientes.
-- 📬 Contáctame en: **carlitostaracenacoronado@gmail.com**
+<p align="cent">
+Soy un apasionado del desarrollo de software, la arquitectura local-first y la ingeniería de datos. Actualmente cursando el último semestre de <strong>Ingeniería en Sistemas y Ciencias de la Computación</strong> en la Universidad Mesoamericana. Me encanta fusionar el desarrollo web y de sistemas con la automatización, mecatrónica y analítica avanzada.
+</p>
+
+- 🔭 **Enfoque actual:** Arquitecturas robustas, flujos de datos empresariales y sistemas embebidos.
+- ⚡ **Filosofía:** Código limpio, optimización de rendimiento y software auto-hospedado.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/KNIME-FFFF00?style=for-the-badge&logo=knime&logoColor=black" />
-</p>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Java`, `Python`, `C#`, `TypeScript`, `JavaScript`, `PHP`, `R` |
+| **Bases de Datos & Cloud** | `PostgreSQL`, `SQL Databases`, `AWS`, `Docker`, `Kubernetes` |
+| **Data & BI** | `Power BI`, `Tableau`, `Looker Studio`, `KNIME` |
+| **Hardware & IoT** | `Arduino`, `Sistemas Mecatrónicos`, `Impresión 3D (PLA/PETG)` |
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-*   **Stellar Tracker:** Observatorio astronómico prototipo con cúpula geodésica escala 1:12.5, controlado por Arduino Uno R3 y un backend en Python (Astropy y SIMBAD) para cálculo automatizado de coordenadas celestes.
-*   **Electrónicos S.A. Data Warehouse:** Arquitectura de inteligencia de negocios implementada con Supabase PostgreSQL, flujos ETL en KNIME y modelos dimensionales en Power BI.
-*   **Sónica:** Reproductor de música nativo para Android desarrollado en Java con interfaz moderna y gestión local de listas mediante SQLite.
-*   **MatchFlow:** Plataforma de gestión de torneos deportivos y propuesta de modelo SaaS integral.
+*   🔭 **[Stellar Tracker](https://github.com/Defiilol11):** Observatorio astronómico prototipo con cúpula geodésica escala 1:12.5, controlado por Arduino Uno R3 y backend en Python (Astropy/SIMBAD).
+*   📊 **[Electrónicos S.A. Data Warehouse](https://github.com/Defiilol11):** Arquitectura de BI implementada con Supabase PostgreSQL, ETLs en KNIME y modelos dimensionales en Power BI.
+*   🎵 **[Sónica](https://github.com/Defiilol11):** Reproductor de música nativo para Android en Java con interfaz moderna y gestión local de listas mediante SQLite.
+*   🏆 **[MatchFlow](https://github.com/Defiilol11):** Plataforma de gestión de torneos deportivos y propuesta de modelo SaaS integral.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Defiilol11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Defiilol11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defiilol11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 ¿Cómo conectar conmigo?
+
+- Correo principal / Colaboraciones: **taracenadev@gmail.com**
+- Correo personal: **carlitostaracenacoronado@gmail.com**
+- GitHub: [@Defiilol11](https://github.com/Defiilol11)
